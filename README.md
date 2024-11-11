@@ -7,10 +7,10 @@
   <p3>Email:chitwangoadam001@gmail.com<br></p3>
   <p1>Language:English,Kiswahili<br></p1>
   <h1>Personal Profile<br><h1>
-  <p4>I am a hardworking person with teamwork,Leadership qualities and good communication skills.Skills in Hardware Maintenance,Computer Support and basic Software Installation. Basics in Computer Hardware troubleshooting. <br></p4>
+  <p3>I am a hardworking person with teamwork,Leadership qualities and good communication skills.Skills in Hardware Maintenance,Computer Support and basic Software Installation. Basics in Computer Hardware troubleshooting. <br></p3>
   <h1>Education.<br><h1>
-   <p1>Computer packages-Mabati Technical Training Institute<br></p1>
-    <p1>Craft in Information Communication and Technology-Mabati Technical Training Institute<br></p1>
+   <p3>Computer packages-Mabati Technical Training Institute<br></p3>
+    <p3>Craft in Information Communication and Technology-Mabati Technical Training Institute<br></p3>
   <h1>Certification</h1>
     <p1> Certificate in Computer Packages<br></p1>
     <p1>Cerificate in Environment Prefect at Migundini Primary<br></p1>
