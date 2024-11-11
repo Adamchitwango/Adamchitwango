@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h3> Personal Profile</h3>
-  <p1>Name: Adam Lwambi Chitwango<br></p1>
-  <p1>Tel: 0717143676<br></p1>
-  <p1>Email:chitwangoadam001@gmail.com<br></p1>
+  <h3> Personal Details</h3>
+  <p3>Name: Adam Lwambi Chitwango<br></p3>
+  <p3>Tel: 0717143676<br></p3>
+  <p3>Email:chitwangoadam001@gmail.com<br></p3>
   <p1>Language:English,Kiswahili<br></p1>
   <h1>Personal Profile<br><h1>
   <p3>I am a hardworking person with teamwork,Leadership qualities and good communication skills.Skills in Hardware Maintenance,Computer Support and basic Software Installation. Basics in Computer Hardware troubleshooting. <br></p3>
