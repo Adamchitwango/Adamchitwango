@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <body>
-  <h1> My portfolio</h1>
+  <h3> Personal Profile</h3>
   <p1>Name: Adam Lwambi Chitwango<br></p1>
   <p1>Tel: 0717143676<br></p1>
   <p1>Email:chitwangoadam001@gmail.com<br></p1>
   <p1>Language:English,Kiswahili<br></p1>
   <h1>Personal Profile<br><h1>
-  <p1>I am a hardworking person with teamwork,Leadership qualities and good communication skills.Skills in Hardware Maintenance,Computer Support and basic Software Installation. Basics in Computer Hardware troubleshooting. <br></p1>
+  <p3>I am a hardworking person with teamwork,Leadership qualities and good communication skills.Skills in Hardware Maintenance,Computer Support and basic Software Installation. Basics in Computer Hardware troubleshooting. <br></p3>
   <h1>Education.<br><h1>
    <p1>Computer packages-Mabati Technical Training Institute<br></p1>
     <p1>Craft in Information Communication and Technology-Mabati Technical Training Institute</p1>
